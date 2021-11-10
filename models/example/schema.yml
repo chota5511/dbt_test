@@ -19,11 +19,3 @@ models:
             tests:
                 - unique
                 - not_null
-
-    - name: test
-      description: "test model"
-      columns:
-          - name: test
-            tests:
-              - not_null
-          - name: test_2 
